@@ -3,8 +3,12 @@
 <p align="center"><img width="40" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
 <div align='center'>
-  <img alt="Twitter" src="https://img.shields.io/badge/TorchedSammy%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-  <img alt="Twitter" src="https://img.shields.io/badge/sammyettelol%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href='http://twitter.com/TorchedSammy'>
+    <img alt="Twitter" src="https://img.shields.io/badge/TorchedSammy%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href='http://twitter.com/sammyettelol'>
+    <img alt="Twitter" src="https://img.shields.io/badge/sammyettelol%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
 </div>
 
 <p align="center">•─────────ღ :hibiscus: ღ─────────•</p>
@@ -36,7 +40,9 @@
 </div>-->
 <br>
 <div align='center'>
-  <img alt="Discord" href='https://discord.gg/3PDdcQz' src="https://img.shields.io/badge/my%20dragon%20maid%20cafe%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href='https://discord.gg/3PDdcQz'>
+    <img alt="Discord" src="https://img.shields.io/badge/my%20dragon%20maid%20cafe%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
   <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>
   <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
 
