@@ -2,18 +2,32 @@
 <p align="center"><strong>Welcome to my profile!</strong></p>
 <p align="center"><img width="40" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 
-<div align='center'>
-  <a href='http://twitter.com/TorchedSammy'>
-    <img alt="Twitter" src="https://img.shields.io/badge/TorchedSammy%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<div align="center" class="text-center">
+  <a href="http://twitter.com/TorchedSammy">
+    <img alt="Twitter" src="https://img.shields.io/badge/TorchedSammy%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-  <a href='http://twitter.com/sammyettelol'>
-    <img alt="Twitter" src="https://img.shields.io/badge/sammyettelol%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="http://twitter.com/sammyettelol">
+    <img alt="Twitter" src="https://img.shields.io/badge/sammyettelol%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+  <br>
+  <a href="https://torchedsammy.itch.io">
+    <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white">
+  </a>
+  <a href="https://steamcommunity.com/id/TorchedSammy">
+    <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  <a href="https://github.com/TorchedSammy">
+    <img alt="Steam" src="https://img.shields.io/badge/GitHub%20-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <br>
+  <a href="https://discord.gg/3PDdcQz">
+    <img alt="Discord" src="https://img.shields.io/badge/my%20dragon%20maid%20cafe%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
 <p align="center">•─────────ღ :hibiscus: ღ─────────•</p>
 
-<p align="center"><strong>I'm a hobbyist software developer that makes stuff.</strong></p>
+<p align="center"><strong>I'm an avid gamer and hobbyist software developer that makes stuff.</strong></p>
 
 <div align="center">
   <h3>Programming Languages</h3>
@@ -31,21 +45,23 @@
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
 
-<!--<div align='center'>
-<h3>Interests</h3>
-- Anime ([MyAnimeList](https://myanimelist.net/profile/TorchedSammy))
-- Gaming (Mostly retro)
-- Art
-- Music
-</div>-->
-<br>
 <div align='center'>
-  <a href='https://discord.gg/3PDdcQz'>
-    <img alt="Discord" src="https://img.shields.io/badge/my%20dragon%20maid%20cafe%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white"/>
-  <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
+  <h3>Fun Facts</h3>
+</div>
+<ul>
+  <li>I love anime, my MAL is <a href='https://myanimelist.net/profile/TorchedSammy'>here.</a></li>
+  <li>I also love Kpop. My favourite groups and idols are: Red Velvet, Chungha and LOONA.</li>
+  <li>I'll most likely enjoy talking to you. Chat with me in my Discord, linked below.</li>
+</ul>
+<div align='center'>
+  <h3>Other Interests</h3>
+</div>
+<ul>
+  <li>Retro Gaming</li>
+  <li>Art</li>
+</ul>
 
+<div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=TorchedSammy&count_private=true&show_icons=true&theme=tokyonight'>
 </div>
 
