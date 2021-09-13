@@ -27,7 +27,7 @@
 <a href="https://torchedsammy.itch.io">
   <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white">
 </a>
-<a href="https://steamcommunity.com/id/TorchedSammy">
+<a href="https://steamcommunity.com/id/sammyette">
   <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">
 </a>
 <br>
