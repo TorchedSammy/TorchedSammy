@@ -19,9 +19,9 @@
   that makes things either solve a problem I had, or seems cool and interesting (to me, anyway). Those are the 2 main reasons, besides being bored.
   Oh, I also watch anime. It's one of my favourite types of media. <a href='https://myanimelist.net/profile/TorchedSammy'>MyAnimeList profile here!</a>
   <br><br>
-  As of recent I've gotten pretty comfortable with Go(lang) and Lua. My current projects (linked below) are made with them.
-  <br><br>
-  During any random free time I have I listen to mostly Kpop, Pop and Hiphop.
+  As of recent I've gotten pretty comfortable with Go and Lua. My current projects are made with them.
+  <br>
+  During any random free time I have I listen to mostly (K)pop.
 </p>
 <br>
 <a href="https://torchedsammy.itch.io">
@@ -32,6 +32,6 @@
 </a>
 <br>
 <a href="https://discord.gg/3PDdcQz">
-  <img alt="Discord" src="https://img.shields.io/badge/sammys%20cloud%20community-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
+  <img alt="sammy's cloud community" src="https://img.shields.io/badge/sammys%20cloud%20community-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </div>
