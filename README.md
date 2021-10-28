@@ -25,7 +25,7 @@
 Hello there! I'm known as sammyette on the internet, or simply shortened to sammy.
 I'm a hobbyist software developer. I create things mostly for my own need, or what is fun to work on.
 I've been doing this for around 5 years by now.  
-YOu can find more info about me on my website above!
+You can find more info about me on my website above!
   
 My favourite flowers are the Night Sky Petunia and Hibiscus.
 
