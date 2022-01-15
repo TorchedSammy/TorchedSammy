@@ -37,3 +37,4 @@ My favourite flowers are the Night Sky Petunia and Hibiscus.
 ## 
 <br>
 <img src='https://modeus.is-inside.me/OymdJcjf.jpg'>
+> PS: if you're gonna use my readme for your own, credit me, thanks
