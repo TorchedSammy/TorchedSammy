@@ -33,7 +33,7 @@ My favourite flowers are the Night Sky Petunia and Hibiscus.
 
 - Art
 - Anime
-- Music, mostly like (K/J)Pop, Trap, EDM)
+- Music, main genres are Kpop/Jpop, Trap, and Electronic
 ## 
 <br>
 <img src='https://modeus.is-inside.me/OymdJcjf.jpg'>
