@@ -39,3 +39,5 @@ Music is nice. I listen to music almost everyday. Eventually I'll get to making 
 Sometimes I doodle in my very bored free time. I can draw small and simple things.
 
 [MyDramaList]: https://mydramalist.com/profile/TorchedSammy
+
+![](https://komarev.com/ghpvc/?username=TorchedSammy&color=ff69b4)
