@@ -21,7 +21,7 @@
 
 <p>⇢ <samp><strong>˚ · Info * ˚ ✦</strong></samp></p>
 
-<samp>I'm a hobbyist software developer writing things that interest me. I have experience in web development
-but I now write Go and Lua. Have been programming for 6 years. You can read more at my website above.</samp>
+<samp>I'm a hobbyist software developer writing things that interest me. My main languages are Go and Lua, and some recent tinkering with Gleam.
+Have been programming for 6+ years. You can read more at my website above.</samp>
 
 ![](https://komarev.com/ghpvc/?username=TorchedSammy&color=ff69b4)
