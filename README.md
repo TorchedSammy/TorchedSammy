@@ -12,8 +12,8 @@
   <p>
     . . . ⇢ ˗ˏˋ
     <strong>
-    <a href='https://sammy.is-a.dev'>Website</a> ˚ ✦
-    <a href='https://sammy.is-a.dev/blog'>Blog</a> ˗ ˚
+    <a href='https://sammyette.party'>Website</a> ˚ ✦
+    <a href='https://sammyette.party/blog'>Blog</a> ˗ ˚
     <a href='https://discord.gg/3PDdcQz'>Community</a>
   </strong>ˋˏ˗ ⇠  . . .
   </p>
