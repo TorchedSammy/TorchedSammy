@@ -25,3 +25,5 @@
 Have been programming for 6+ years. You can read more at my website above.</samp>
 
 ![](https://komarev.com/ghpvc/?username=TorchedSammy&color=ff69b4)
+
+<a href='https://one-among.us'><img width=200 src='https://one-among.us/banner.png'></img></a>
