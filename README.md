@@ -21,8 +21,8 @@
 
 <p>⇢ <samp><strong>˚ · Info * ˚ ✦</strong></samp></p>
 
-<samp>I'm a hobbyist software developer writing things that interest me. My main languages are Go and Lua, and some recent tinkering with Gleam.
-Have been programming for 6+ years. You can read more at my website above.</samp>
+<samp>I'm a hobbyist software developer working on projects that interest me. I like to tinker with sfotware written in GO, Lua and Gleam
+I have 7 years of progamming experience in a few different languages.</samp>
 
 ![](https://komarev.com/ghpvc/?username=TorchedSammy&color=ff69b4)
 
