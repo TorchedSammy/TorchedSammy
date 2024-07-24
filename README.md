@@ -3,7 +3,7 @@
 <!--<img src="https://safe.kashima.moe/geajomx5q8m3.jpg">-->
 
 <p align='left'><samp>「</samp></p>
-<p align='center'><samp>Just when you think you've hit rock bottom, you realize you're standing on another trapdoor.<samp></p>
+<p align='center'><a href='https://www.youtube.com/watch?v=DX4BE9GmpH4'><strong>Pain is my superpower.</strong></a></p>
 <p align='right'><samp>」</samp></p>
 
 ##
